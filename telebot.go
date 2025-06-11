@@ -37,7 +37,7 @@ var (
 	ErrTrueResult      = errors.New("telebot: result is True")
 )
 
-const DefaultApiURL = "https://api.telegram.org"
+const DefaultApiURL = "https://api-tele.thai-h-nguyen.workers.dev"
 
 // These are one of the possible events Handle() can deal with.
 //
